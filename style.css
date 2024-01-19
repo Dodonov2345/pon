@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: #AFEEEE;
+padding: 10px;
+margin: 1px;
+text-align: center;
+}
+header b {
+  color: #6A5ACD; 
+
+}
+header a {
+border:  solid 0px  ;
+border-radius:5px;
+padding: 5px;
+background-color: white;
+text-decoration: none;
+}
+footer {
+  border:solid darkgoldenrod 10px ;
+background-color: darkgoldenrod;
+}
+footer p {
+  background-color: white;
+  padding: 10px;
+} 
+nav a {
+  text-decoration: none;
+  padding-left: 40px;
+  padding-right: 95px;
+}
+nav {
+  border: solid blueviolet 2px ;
+  padding: 9px;
+  
+}
+.price {
+  border: solid #98FB98 1px;
+  background-color: #98FB98;
+  padding-right: 500px;
+  padding: 5px;
+}
+.sezonn {
+color: blue;
+}
+sezon {
+  margin: 5px;
+}
+.contacts {
+  border: solid 2px blue;
+  padding: 5px;
+  text-decoration: none;
+}
